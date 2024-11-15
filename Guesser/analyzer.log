@@ -1,0 +1,128 @@
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/bin/sh: 1: /mnt/c/revature/keneE/guesser/Analyzer.sh: not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 2: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 5: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 8: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 35: syntax error: unexpected end of file
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 2: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 5: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 8: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 35: syntax error: unexpected end of file
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 2: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 5: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 8: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 35: syntax error: unexpected end of file
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 2: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 5: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 8: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 35: syntax error: unexpected end of file
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 2: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 5: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 8: $'\r': command not found
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 35: syntax error: unexpected end of file
+/usr/bin/sed: /usr/bin/sed: cannot execute binary file
+/usr/bin/sed: /usr/bin/sed: cannot execute binary file
+sed: couldn't open temporary file /usr/bin/sedIIMFHz: Permission denied
+sed: couldn't open temporary file /usr/bin/sedQsMzGH: Permission denied
+sed: couldn't open temporary file /usr/bin/sed3pW2l5: Permission denied
+sed: couldn't open temporary file /usr/bin/sedOZeAsQ: Permission denied
+sed: couldn't open temporary file /usr/bin/sedqr8Aak: Permission denied
+sed: couldn't open temporary file /usr/bin/sedhbF5Z2: Permission denied
+sed: couldn't open temporary file /usr/bin/sed1l8IqW: Permission denied
+dos2unix: Failed to open temporary output file: Permission denied
+dos2unix: problems converting file /usr/bin/bash
+dos2unix: converting file /mnt/c/revature/keneE/guesser/Analyzer.sh to Unix format...
+dos2unix: converting file /mnt/c/revature/keneE/guesser/Analyzer.sh to Unix format...
+Statistics.txt does not exist, so file will be created.
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+/bin/sh: 1: Analyzer.sh: not found
+/bin/sh: 1: Analyzer.sh: not found
+Library Not Found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+grep: Gamedata.txt: No such file or directory
+grep: Gamedata.txt: No such file or directory
+sum: '': No such file or directory
+sum: '': No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+grep: Gamedata.txt: No such file or directory
+grep: Gamedata.txt: No such file or directory
+sum: '': No such file or directory
+sum: '': No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+grep: Gamedata.txt: No such file or directory
+grep: Gamedata.txt: No such file or directory
+sum: '': No such file or directory
+sum: '': No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+grep: Gamedata.txt: No such file or directory
+grep: Gamedata.txt: No such file or directory
+sum: '': No such file or directory
+sum: '': No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+sum: 1: No such file or directory
+sum: 2: No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+sum: 1: No such file or directory
+sum: 2: No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+sum: 1: No such file or directory
+sum: 2: No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+sum: 1: No such file or directory
+sum: 2: No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+sum: 1: No such file or directory
+sum: 2: No such file or directory
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 31: compare: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 30: 1+2: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 30: wins+losses: command not found
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: syntax error near unexpected token `$'{\r''
+/mnt/c/revature/keneE/guesser/Library.sh: line 2: `updatedata() {'
+/mnt/c/revature/keneE/guesser/Analyzer.sh: line 30: wins+losses: command not found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+dos2unix: converting file /mnt/c/revature/keneE/guesser/Analyzer.sh to Unix format...
+dos2unix: converting file /mnt/c/revature/keneE/guesser/Analyzer.sh to Unix format...
+dos2unix: converting file /mnt/c/revature/keneE/guesser/Analyzer.sh to Unix format...
+Library Not Found
+Library Not Found
+Library Not Found
