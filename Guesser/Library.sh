@@ -32,16 +32,20 @@ compare() {
     local wins=$1
     local losses=$2
     local gamesplayed=$3
+    local date=$(date "+%Y-%m-%d %H:%M:%S")
    
     if [[ $wins -gt $losses ]]; then
-        echo "Total games played: $gamesplayed" > "$STATISTICS"
+        echo "Total games played: $gamesplayed" >> "$STATISTICS"
         echo "There are more wins: $wins than losses: $losses" >> "$STATISTICS"
+        echo "Time: $date " >> "$STATISTICS"
     elif [[ $losses -gt $wins ]]; then
-        echo "Total games played: $gamesplayed" > "$STATISTICS"
+        echo "Total games played: $gamesplayed" >> "$STATISTICS"
         echo "There are more losses: $losses than wins: $wins" >> "$STATISTICS"
+        echo "Time: $date " >> "$STATISTICS"
     else
-        echo "Total games played: $gamesplayed" > "$STATISTICS"
+        echo "Total games played: $gamesplayed" >> "$STATISTICS"
         echo "The wins: $wins are equal to the losses: $losses" >> "$STATISTICS"
+        echo "Time: $date " >> "$STATISTICS"
     fi
 }
 
