@@ -126,3 +126,29 @@ dos2unix: converting file /mnt/c/revature/keneE/guesser/Analyzer.sh to Unix form
 Library Not Found
 Library Not Found
 Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+Library Not Found
+grep: ./Gamedata.txt: No such file or directory
+grep: ./Gamedata.txt: No such file or directory
+/mnt/c/Revature/keneE/guesser/Library.sh: line 28: +: syntax error: operand expected (error token is "+")
