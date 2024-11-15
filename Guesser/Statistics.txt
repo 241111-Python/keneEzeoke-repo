@@ -1,2 +1,2 @@
-Total games played: 12
-There are more losses: 8 than wins: 4
+Total games played: 7
+There are more losses: 4 than wins: 3

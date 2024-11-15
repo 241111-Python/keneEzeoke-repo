@@ -47,12 +47,13 @@ while (( tries > 0)); do
             updatedata "Win"
             break
         else
-            echo -e "\nwrong guess keep at it. "
-            echo "$randno"
+                        
             (( tries-- ))
             
             if (( tries > 0 )); then
+                echo -e "\nwrong guess keep at it. "
                 echo -e "\nYou have $tries tries left."
+                echo "$randno"
             else
                 echo -e "\nToo bad you failed! The correct number was $randno."
                 updatedata "Loss"
