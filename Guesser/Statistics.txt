@@ -18,3 +18,15 @@ Time: 2024-11-15 14:43:03
 Total games played: 13
 There are more losses: 8 than wins: 5
 Time: 2024-11-15 14:44:04 
+Total games played: 13
+There are more losses: 8 than wins: 5
+Time: 2024-11-15 14:45:04 
+Total games played: 13
+There are more losses: 8 than wins: 5
+Time: 2024-11-15 14:46:03 
+Total games played: 14
+There are more losses: 8 than wins: 6
+Time: 2024-11-15 14:47:02 
+Total games played: 15
+There are more losses: 8 than wins: 7
+Time: 2024-11-15 14:48:04 

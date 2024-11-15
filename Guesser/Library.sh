@@ -21,7 +21,7 @@ updatedata() {
     echo "Wins: $wins" > "$GAMEDATA"
     echo "Losses: $losses" >> "$GAMEDATA"
     # Add date and time of win or loss
-    echo "$date - $value" >> "$GAMEDATA"
+    echo "Time for latest win/loss: $date - $value" >> "$GAMEDATA"
 }
 
 sum() {
